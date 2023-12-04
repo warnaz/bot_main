@@ -1,0 +1,12 @@
+com.starknet.bot_main.app-jetified-window-java-1.0.0-beta04-0 /home/magomed/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.starknet.bot_main.app-core-1.6.0-1 /home/magomed/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.starknet.bot_main.app-jetified-annotation-experimental-1.1.0-2 /home/magomed/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.starknet.bot_main.app-jetified-window-1.0.0-beta04-3 /home/magomed/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.starknet.bot_main.app-debug-4 /home/magomed/Рабочий стол/flutter_test/bot_main/android/app/src/debug/res
+com.starknet.bot_main.app-main-5 /home/magomed/Рабочий стол/flutter_test/bot_main/android/app/src/main/res
+com.starknet.bot_main.app-pngs-6 /home/magomed/Рабочий стол/flutter_test/bot_main/build/app/generated/res/pngs/debug
+com.starknet.bot_main.app-resValues-7 /home/magomed/Рабочий стол/flutter_test/bot_main/build/app/generated/res/resValues/debug
+com.starknet.bot_main.app-rs-8 /home/magomed/Рабочий стол/flutter_test/bot_main/build/app/generated/res/rs/debug
+com.starknet.bot_main.app-mergeDebugResources-9 /home/magomed/Рабочий стол/flutter_test/bot_main/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.starknet.bot_main.app-mergeDebugResources-10 /home/magomed/Рабочий стол/flutter_test/bot_main/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.starknet.bot_main.app-merged_res-11 /home/magomed/Рабочий стол/flutter_test/bot_main/build/app/intermediates/merged_res/debug

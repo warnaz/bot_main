@@ -1,0 +1,54 @@
+# ninja log v5
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	fe28cf73ba47342d
+7271	7751	1700646174986957801	CMakeFiles/bot_main.dir/my_application.cc.o	4c8e0d32e71405f4
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_value.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	fe28cf73ba47342d
+3	7270	0	flutter/_phony_	fe28cf73ba47342d
+8624	9486	1700065901261612019	CMakeFiles/bot_main.dir/main.cc.o	44e009907b2c3f20
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	fe28cf73ba47342d
+7271	7687	1700646174922957546	CMakeFiles/bot_main.dir/flutter/generated_plugin_registrant.cc.o	cb36ce26b18b5e38
+7751	7879	1700646175118958326	intermediates_do_not_run/bot_main	4704ef722a08015f
+7879	8077	0	CMakeFiles/install.util	e08f2afba3c44d53
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_engine.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/libflutter_linux_gtk.so	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	fe28cf73ba47342d
+3	7270	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_view.h	fe28cf73ba47342d
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/libflutter_linux_gtk.so	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_engine.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_value.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/fl_view.h	b266fbcee280b22c
+47	7859	0	/home/magomed/Рабочий стол/flutter_test/bot_main/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	b266fbcee280b22c
+47	7859	0	flutter/_phony_	b266fbcee280b22c
+7860	9034	1700653471501989340	CMakeFiles/bot_main.dir/flutter/generated_plugin_registrant.cc.o	cb36ce26b18b5e38
+7860	9079	1700653471545988291	CMakeFiles/bot_main.dir/my_application.cc.o	4c8e0d32e71405f4
+9079	9340	1700653471813981896	intermediates_do_not_run/bot_main	4704ef722a08015f
+9340	9510	0	CMakeFiles/install.util	e08f2afba3c44d53

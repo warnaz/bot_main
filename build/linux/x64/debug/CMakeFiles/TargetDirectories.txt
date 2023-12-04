@@ -1,0 +1,14 @@
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/CMakeFiles/install.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/CMakeFiles/bot_main.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/magomed/Рабочий стол/flutter_test/bot_main/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
